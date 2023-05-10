@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI5NGY5NzE3ODJlYTc3ZTJmZjQ4N2QwNzQxNmNmY2Q4YzEyNzYxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
 <!--https://img.shields.io/badge/ Use this link to add Social links-->
-<div id="badges"> 
+<div id="badges" align="center"> 
   <a href="https://www.linkedin.com/in/ganpati-rathia-96a7b39b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
