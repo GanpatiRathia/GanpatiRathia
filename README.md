@@ -2,6 +2,8 @@
 
 <!--**GanpatiRathia/ganpatirathia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Ganpati+Rathia+;I+am+a+Java+Developer;I+am+a+Python+Developer;)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI5NGY5NzE3ODJlYTc3ZTJmZjQ4N2QwNzQxNmNmY2Q4YzEyNzYxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif" width="100"/>
