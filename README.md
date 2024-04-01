@@ -25,8 +25,9 @@
 
 <div>
   <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=GanpatiRathia&label=Profile%20views&color=0e75b6&style=flat" alt="GanpatiRathia" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=GanpatiRathia&label=Profile%20views&color=0e75b6&style=flat" alt="GanpatiRathia" /> </p>
     <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
