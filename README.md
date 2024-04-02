@@ -68,12 +68,12 @@
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GanpatiRathia&show_icons=true&locale=en&layout=compact" alt="GanpatiRathia" />
   </p>
-</div>
-
-<div>
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" /></p>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=GanpatiRathia" " alt="git stats" />
+  <p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=GanpatiRathia" " alt="git stats" />
+  </p>
 </div>
   
 ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
