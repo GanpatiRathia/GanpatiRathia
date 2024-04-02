@@ -66,14 +66,14 @@
 
 <div>
   <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" />
   </p>
   <br>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GanpatiRathia&show_icons=true&locale=en&layout=compact" alt="GanpatiRathia" />
   </p>
   <p>
-    <img src="https://streak-stats.demolab.com/?user=GanpatiRathia" " alt="git stats" />
+    <img align="right" src="https://streak-stats.demolab.com/?user=GanpatiRathia" " alt="git stats" />
   </p>
 </div>
   
