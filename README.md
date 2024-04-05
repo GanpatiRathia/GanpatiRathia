@@ -92,7 +92,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
   </div>
-
+  <div>Text Editors : <br>
+    <div></div>
+  </div>
+  <div></div>
+  <div></div>
+  <div></div>
+  
   <!--
   https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg
 
@@ -198,7 +204,7 @@ https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg\
-https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg\
+
 https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/vyper/vyper-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg\
