@@ -216,17 +216,16 @@ https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithm
   -->
 </div>
 
-<div>
-  <p>
+<div style="display: flex; justify-content: space-between;">
+  <p style="flex: 1;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" />
   </p>
-  <br>
-  <p>
+  <p style="flex: 1;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GanpatiRathia&show_icons=true&locale=en&layout=compact" alt="GanpatiRathia" />
   </p>
-  <p>
-    <img align="right" src="https://streak-stats.demolab.com/?user=GanpatiRathia" " alt="git stats" />
+  <p style="flex: 1;">
+    <img align="right" src="https://streak-stats.demolab.com/?user=GanpatiRathia" alt="git stats" />
   </p>
 </div>
-  
+
 ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
