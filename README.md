@@ -216,11 +216,10 @@ https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithm
   -->
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; white-space: nowrap; overflow-x: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" style="display: inline-block; width: 350px; height: auto; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GanpatiRathia&show_icons=true&locale=en&layout=compact" alt="GanpatiRathia" style="display: inline-block; width: 350px; height: auto; margin-right: 10px;">
     <img src="https://streak-stats.demolab.com/?user=GanpatiRathia" alt="git stats" style="display: inline-block; width: 350px; height: auto;">
 </div>
-
 
 ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
