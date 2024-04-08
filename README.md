@@ -95,11 +95,7 @@
   <div>Text Editors : <br>
     <div></div>
   </div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <!--
-  Web Tool Frameworks
+  <div>Web Tool Frameworks
   https://github.com/devicons/devicon/blob/master/icons//postman-original.svg
   https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg
   https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg
@@ -110,8 +106,10 @@
   https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg
   https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg
   https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg
-  -->
   
+  </div>
+  <div></div>
+  <div></div>
   <!--
   https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg
 
