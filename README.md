@@ -96,74 +96,54 @@
     <div></div>
   </div>
   <div>Web Tool Frameworks
-  <img src="https://github.com/devicons/devicon/blob/master/icons//postman-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons//postman-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   </div>
   <div></div>
   <div></div>
   <!--
   https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
-https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg
-
-
-
-https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
-
-
-https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg
+  https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
+  https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg
+  https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
+  https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg
 https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg
-
-
-
-
 https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg
-
 https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg
-
 https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg
-
 https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original-wordmark.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original-wordmark.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
@@ -172,8 +152,6 @@ https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-orig
 https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg\
-
-
 https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg\
@@ -187,7 +165,6 @@ https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wor
 https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg
-
 https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg\
@@ -197,7 +174,6 @@ https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.s
 https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg\
@@ -214,7 +190,6 @@ https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg\
 https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg\
-
 https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/vyper/vyper-original-wordmark.svg\
 https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg\
@@ -223,9 +198,8 @@ https://github.com/devicons/devicon/blob/master/icons/zig/zig-original-wordmark.
 https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg
 https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg
 https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg
-  -->
+-->
 </div>
-
 <div style="text-align: center; white-space: nowrap; overflow-x: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=GanpatiRathia&show_icons=true&locale=en" alt="GanpatiRathia" style="display: inline-block; width: 350px; height: 200px; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GanpatiRathia&show_icons=true&locale=en&layout=compact" alt="GanpatiRathia" style="display: inline-block; width: 350px; height: 200px; margin-right: 10px;">
