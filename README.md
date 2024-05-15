@@ -96,7 +96,7 @@
     <div></div>
   </div>
   <div>Web Tool Frameworks
-    <img src="https://github.com/devicons/devicon/blob/master/icons//postman-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
