@@ -209,4 +209,4 @@ https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithm
   <img src="https://streak-stats.demolab.com/?user=GanpatiRathia" alt="git stats" style="display: inline-block; width: 350px; height: 200px;">
 </div>
 
- [Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
